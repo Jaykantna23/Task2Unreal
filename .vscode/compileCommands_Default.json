@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\My Work\\Gamedev\\Unreal games\\UnrealLearningKit\\Source\\UnrealLearningKit\\MyNewActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\My Work\\Gamedev\\Unreal games\\UnrealLearningKit\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\My Work\\Gamedev\\Unreal games\\UnrealLearningKit\\Source\\UnrealLearningKit\\MyNewActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\My Work\\Gamedev\\Unreal games\\UnrealLearningKit\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\My Work\\Gamedev\\Unreal games\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\My Work\\Gamedev\\Unreal games\\UnrealLearningKit\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\My Work\\Gamedev\\Unreal games\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\My Work\\Gamedev\\Unreal games\\UnrealLearningKit\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\My Work\\Gamedev\\Unreal games\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\My Work\\Gamedev\\Unreal games\\UnrealLearningKit\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
